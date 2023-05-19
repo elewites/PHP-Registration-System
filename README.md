@@ -2,7 +2,7 @@
 
 A PHP employee registration system. 
 
-I used (XAMPP)[https://www.apachefriends.org/download.html] software package to host the application. 
+I used [XAMPP](https://www.apachefriends.org/download.html) software package to host the application. 
 
 ## Installation
 
